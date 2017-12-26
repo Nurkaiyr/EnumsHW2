@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW2\EnumsHW2\bin\Debug\EnumsHW2.exe.config
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW2\EnumsHW2\bin\Debug\EnumsHW2.exe
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW2\EnumsHW2\bin\Debug\EnumsHW2.pdb
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW2\EnumsHW2\obj\Debug\EnumsHW2.exe
+c:\users\1\documents\visual studio 2017\Projects\EnumsHW2\EnumsHW2\obj\Debug\EnumsHW2.pdb
